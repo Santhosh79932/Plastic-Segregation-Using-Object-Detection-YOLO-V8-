@@ -2,6 +2,7 @@ __pycache__/
 *.pyc
 *.pt
 *.onnx
+*.db
 runs/
 uploaded_images/
 .vscode/
