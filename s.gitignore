@@ -1,0 +1,7 @@
+__pycache__/
+*.pt
+*.onnx
+runs/
+uploaded_images/
+.vscode/
+.env
